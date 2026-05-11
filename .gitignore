@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+venv/
+*.csv
+*.parquet
+*.h5
+app/flood_risk_map.html
+.DS_Store
