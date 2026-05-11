@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-flood-risk-system&branch=main&mainModule=app.py)
+
 # 🌊 Nigeria Flood Risk Early Warning System
 
 A full-stack geospatial application for real-time flood risk monitoring across Nigeria's 36 states and FCT, combining **GIS spatial analysis**, **PySpark big-data pipelines**, **Azure cloud services**, and a **Streamlit interactive dashboard**.
