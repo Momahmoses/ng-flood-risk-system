@@ -1,6 +1,6 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-flood-risk-system&branch=main&mainModule=app.py)
 
-# 🌊 Nigeria Flood Risk Early Warning System
+# Nigeria Flood Risk Early Warning System
 
 A full-stack geospatial application for real-time flood risk monitoring across Nigeria's 36 states and FCT, combining **GIS spatial analysis**, **PySpark big-data pipelines**, **Azure cloud services**, and a **Streamlit interactive dashboard**.
 
@@ -67,7 +67,7 @@ DATABRICKS_TOKEN=...
 - Population at risk vs risk score scatter plot
 
 ## Data Sources (Production)
-- **NIMET** — Nigeria Meteorological Agency (rainfall data)
-- **NIHSA** — Nigeria Hydrological Services Agency (river levels)
-- **NEMA** — National Emergency Management Agency (flood events)
-- **NBS** — National Bureau of Statistics (population data)
+- **NIMET**, Nigeria Meteorological Agency (rainfall data)
+- **NIHSA**, Nigeria Hydrological Services Agency (river levels)
+- **NEMA**, National Emergency Management Agency (flood events)
+- **NBS**, National Bureau of Statistics (population data)
